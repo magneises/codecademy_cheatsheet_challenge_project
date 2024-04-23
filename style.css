@@ -1,0 +1,33 @@
+
+h1 {
+    text-align: center;
+  }
+  
+h2 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+.table-header {
+    background-color: rgb(214,180,252);
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+  }
+
+td {
+    border-top: 1px solid darkorchid;
+  }
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+  }
+
+
+
+
+
